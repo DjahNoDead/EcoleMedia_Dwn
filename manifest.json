@@ -1,0 +1,10 @@
+{
+  "app": "comparateur",
+  "build": 8,
+  "version": "1.0.1",
+  "sha256": "1b731157c39ba4cf9ecb519507199611ffbcac9928a4601b5784455b9c9e0fea",
+  "date": "2026-10-06 13:09:48",
+  "notes": "",
+  "stockage": "source",
+  "python": "3.14"
+}
