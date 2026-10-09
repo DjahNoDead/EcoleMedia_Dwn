@@ -1,9 +1,9 @@
 {
   "app": "comparateur",
-  "build": 2,
+  "build": 4,
   "version": "1.0.1",
-  "sha256": "41bd6770b177b9e846e3ebb4b573eceff4d1a7cf951f59ccb376d2f1d3be1cf9",
-  "date": "2026-10-08 21:24:18",
+  "sha256": "a859d9e62079db15f01d8b3db88e567230d286e9ef12fae6d2b48944e60ee6a1",
+  "date": "2026-10-09 07:26:37",
   "notes": "",
   "stockage": "source",
   "python": "3.14",
