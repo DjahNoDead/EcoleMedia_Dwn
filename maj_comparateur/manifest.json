@@ -1,11 +1,11 @@
 {
   "app": "comparateur",
-  "build": 1,
-  "version": "1.0.3",
-  "sha256": "56c1a0d7724f3687f6e8038958adc1aefa20a66b5cfad156a085b09cd3224a65",
-  "date": "2026-10-18 09:53:21",
+  "build": 2,
+  "version": "1.0.4",
+  "sha256": "743859299d4b23fe1fb3ddc90eed5923033265f9657b16397f5a22ebf98c6d3b",
+  "date": "2026-10-24 02:40:44",
   "notes": "",
   "stockage": "source",
   "python": "3.14",
-  "expire_le": "2026-10-30"
+  "expire_le": "2026-11-10"
 }
