@@ -2,10 +2,10 @@
   "app": "telechargeur",
   "build": 4,
   "version": "1.0.3",
-  "sha256": "a7f4cbf05911bd417f18c4702ed932d6aa426b7ae3a9e5fc63093ef3170cda51",
-  "date": "2026-10-24 02:40:45",
+  "sha256": "2d96cb9301596d7baf33247b11555b5c8d31b2a9a03463e95e747c24ebdbffd3",
+  "date": "2026-11-03 12:05:54",
   "notes": "",
   "stockage": "source",
   "python": "3.14",
-  "expire_le": "2026-11-10"
+  "expire_le": "2026-11-30"
 }
