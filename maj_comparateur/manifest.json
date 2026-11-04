@@ -1,11 +1,25 @@
 {
   "app": "comparateur",
-  "build": 10,
-  "version": "1.0.19",
-  "sha256": "0a27d96997670d4261c38faf2564fad7a3ab3d4e6eebdcd0bbddf7234c7f1d41",
-  "date": "2026-11-04 18:11:19",
+  "build": 12,
+  "version": "1.0.20",
+  "sha256": "e8723293011c01e05733b331dcb7db33a6044241cca87439f20ea2b4fee4b4fb",
+  "date": "2026-11-04 23:55:04",
   "notes": "",
   "stockage": "source",
   "python": "3.14",
-  "expire_le": "2026-11-30"
+  "expire_le": "2026-11-30",
+  "fonctionnalites": [
+    "liste_ecole_memorisee",
+    "recherche",
+    "indications_rapport",
+    "mise_a_jour_rapide",
+    "diagnostic_rapide",
+    "tableau_de_bord",
+    "relances",
+    "suivi_relances",
+    "historique",
+    "sauvegardes",
+    "journal_support",
+    "acces_protege"
+  ]
 }
