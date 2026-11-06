@@ -1,9 +1,9 @@
 {
   "app": "telechargeur",
-  "build": 17,
+  "build": 19,
   "version": "1.0.3",
-  "sha256": "e95235efa3b2544e661234f73af836cdd8665670fe75406d2e9078687e63d012",
-  "date": "2026-11-06 01:46:22",
+  "sha256": "de0ea52adb7ce79502025bd0fd3e8576c70d59e59db23291c5e838b1fa637724",
+  "date": "2026-11-06 08:21:38",
   "notes": "",
   "stockage": "source",
   "python": "3.14",
