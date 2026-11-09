@@ -1,12 +1,12 @@
 {
   "app": "comparateur",
-  "build": 21,
-  "version": "1.0.25",
-  "sha256": "5c3887b371d2c6027cc4a5b7d0a4548e0c5fcfeff08a7842bfa7e03c2d83b188",
-  "date": "2026-11-06 08:21:36",
+  "build": 7,
+  "version": "1.0.26",
+  "sha256": "57987524533bc5fd8676198d6c158c33b06532a897440eca22abb231a353790e",
+  "date": "2026-11-09 16:52:44",
   "notes": "",
   "stockage": "source",
-  "python": "3.14",
+  "python": "3.12",
   "expire_le": "2026-11-30",
   "fonctionnalites": [
     "liste_ecole_memorisee",
@@ -21,6 +21,7 @@
     "sauvegardes",
     "journal_support",
     "acces_protege",
-    "comparaison_fichiers"
+    "comparaison_fichiers",
+    "listes_deroulantes"
   ]
 }
