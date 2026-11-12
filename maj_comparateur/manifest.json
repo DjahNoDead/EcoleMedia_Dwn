@@ -1,9 +1,9 @@
 {
   "app": "comparateur",
-  "build": 8,
-  "version": "1.0.26",
-  "sha256": "51c8be99b0d8d053e0cd946e962426ec5fb1c1f65785ccccedd6e228289d8626",
-  "date": "2026-11-09 17:45:46",
+  "build": 10,
+  "version": "1.0.27",
+  "sha256": "c90e46bc036cbfff287a2fcadb3b01d4ab870e2ec6dd8cd5652ef74cfe35bb4e",
+  "date": "2026-11-12 23:53:36",
   "notes": "",
   "stockage": "source",
   "python": "3.12",
@@ -22,6 +22,7 @@
     "journal_support",
     "acces_protege",
     "comparaison_fichiers",
-    "listes_deroulantes"
+    "listes_deroulantes",
+    "affectation_eleve_classe"
   ]
 }
