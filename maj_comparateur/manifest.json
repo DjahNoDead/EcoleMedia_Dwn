@@ -1,9 +1,9 @@
 {
   "app": "comparateur",
-  "build": 12,
-  "version": "1.0.28",
-  "sha256": "d9d370e68edf98892aa98f00924e0936157bc48fd94699910090ad6030d314d1",
-  "date": "2026-11-13 00:37:37",
+  "build": 3,
+  "version": "1.0.31",
+  "sha256": "98805811856f0b7ef419d343cba16cb62c4f160427e208e940e7eb5d07de5521",
+  "date": "2026-11-13 01:06:26",
   "notes": "",
   "stockage": "source",
   "python": "3.12",
@@ -24,6 +24,8 @@
     "comparaison_fichiers",
     "listes_deroulantes",
     "affectation_eleve_classe",
-    "affectation_par_niveau"
+    "affectation_par_niveau",
+    "themes",
+    "eleves_sans_photo"
   ]
 }
