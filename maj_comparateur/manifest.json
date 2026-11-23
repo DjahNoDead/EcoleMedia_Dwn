@@ -1,9 +1,9 @@
 {
   "app": "comparateur",
-  "build": 3,
-  "version": "1.0.1",
-  "sha256": "5e9ae99c8d7f734b12d134125a84646cd7bb92ce7c3eca3758f949c94196647c",
-  "date": "2026-11-13 09:30:52",
+  "build": 6,
+  "version": "1.0.35",
+  "sha256": "8f870d153b6bdd13b12dd7d0788796b00874f7e4270819971c1c2271fd7b18f4",
+  "date": "2026-11-23 22:35:30",
   "notes": "",
   "stockage": "source",
   "python": "3.12",
@@ -27,6 +27,7 @@
     "affectation_par_niveau",
     "themes",
     "eleves_sans_photo",
-    "animation_demarrage"
+    "animation_demarrage",
+    "suivi_direct_maj"
   ]
 }
